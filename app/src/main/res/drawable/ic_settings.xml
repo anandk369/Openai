@@ -2,8 +2,6 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="40dp" android:height="40dp"
     android:viewportWidth="24" android:viewportHeight="24">
-    <!-- Gear “settings” icon -->
-    <path
-        android:fillColor="#FFFFFFFF"
+    <path android:fillColor="#FFFFFFFF"
         android:pathData="M12,8a4,4 0 1,0 0,8a4,4 0 0,0 0,-8zm7.43,3h2.54l-1.2,-2.077l -2.123,1.23a6.978,6.978 0 0,0 -1.341,-1.341l1.23,-2.123l-2.077,-1.2v2.54a6.978,6.978 0 0,0 -1.766,0v-2.54l-2.077,1.2l1.23,2.123a6.978,6.978 0 0,0 -1.341,1.341l-2.123,-1.23l-1.2,2.077h2.54a6.978,6.978 0 0,0 0,1.766h-2.54l1.2,2.077l2.123,-1.23a6.978,6.978 0 0,0 1.341,1.341l-1.23,2.123l2.077,1.2v-2.54a6.978,6.978 0 0,0 1.766,0v2.54l2.077,-1.2l-1.23,-2.123a6.978,6.978 0 0,0 1.341,-1.341l2.123,1.23l1.2,-2.077h-2.54a6.978,6.978 0 0,0 0,-1.766z"/>
 </vector>
