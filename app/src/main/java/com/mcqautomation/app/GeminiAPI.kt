@@ -20,8 +20,8 @@ class GeminiAPI(private val context: Context) {
         private const val TAG = "GeminiAPI"
         // Replace with your actual Gemini API endpoint
         private const val API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-exp:generateContent"
-        // Replace with your API key from local.properties
-        private const val API_KEY = "YOUR_GEMINI_API_KEY_HERE"
+        // API key loaded from local.properties via BuildConfig
+        private const val API_KEY = BuildConfig.GEMINI_API_KEY
     }
     
     private val client = OkHttpClient.Builder()
