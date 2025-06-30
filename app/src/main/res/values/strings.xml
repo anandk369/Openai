@@ -1,4 +1,3 @@
-
 <resources>
     <string name="app_name">MCQ Automation</string>
     <string name="accessibility_service_description">MCQ Automation Service - Allows the app to interact with other apps to automate MCQ solving. This service can read screen content and perform gestures to select answers.</string>
